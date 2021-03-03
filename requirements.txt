@@ -1,0 +1,5 @@
+ipython @ file:///C:/ci/ipython_1593446240034/work
+matplotlib==3.3.0
+numpy
+pygame==2.0.1
+torch==1.7.1+cu101
